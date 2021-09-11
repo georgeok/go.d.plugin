@@ -14,7 +14,7 @@ import (
 
 	"github.com/jessevdk/go-flags"
 
-	_ "github.com/netdata/go.d.plugin/modules"
+	_ "github.com/netdata/go.d.plugin/modules/_init"
 )
 
 var (
